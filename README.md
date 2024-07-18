@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mabdyzhaparov
 - 👀 I’m interested in a lot of stuff in IT
-- 🌱 I’m currently learning HTML5, CSS3, JavaScript
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on nothing yet
 - 📫 You can reach me @mabdyzhaparov at Twitter
 
